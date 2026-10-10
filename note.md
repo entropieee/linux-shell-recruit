@@ -19,3 +19,4 @@ uniq -c:"‑c" = count，统计每一行重复多少次
 2.[^ ]*：用来提取空格前的一整段文字
 # 每题判定情况
 ![alt text](image.png)
+其中第八题在列出backup文件夹时能看待“My Report.txt”和“report.txt”，尝试多次后还是不知道为什么无法通过
